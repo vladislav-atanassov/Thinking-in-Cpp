@@ -14,6 +14,7 @@ void referenceStr(std::string& str)
     std::cout << str << std::endl;
 }
 
+/*
 int main()
 {
     std::string s = "apple";
@@ -25,3 +26,4 @@ int main()
 
     return 0;
 }
+*/

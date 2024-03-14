@@ -42,9 +42,11 @@ void intrestingReadingOutput()
     }
 }
 
+/*
 int main()      
 {
     intrestingReadingOutput();
 
     return 0;
 }
+*/
