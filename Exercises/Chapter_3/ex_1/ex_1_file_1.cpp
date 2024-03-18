@@ -1,7 +1,5 @@
 #include <iostream>
-#include "C:\Users\Vladislav Atanassov\Documents\Thinking in C++\Exercises\Chapter_3\Exercise_1\ex_1_header_file.h"
-
-#define PRINT(x) std::cout << #x << std::endl;
+#include "ex_1_header.h"
 
 void voidFunc(void)
 {
