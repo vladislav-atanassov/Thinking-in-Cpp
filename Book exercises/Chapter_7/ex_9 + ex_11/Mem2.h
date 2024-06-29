@@ -1,4 +1,5 @@
-#pragma once
+#ifndef MEM2_H
+#define MEM2_H
 
 typedef unsigned char byte;
 
@@ -19,3 +20,5 @@ private:
 
     void ensureMinSize(int minSize);
 };
+
+#endif // MEM2_H

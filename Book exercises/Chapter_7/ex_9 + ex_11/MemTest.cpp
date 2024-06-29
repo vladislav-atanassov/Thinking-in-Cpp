@@ -4,8 +4,6 @@
 
 class MyString
 {
-    Mem *buf;
-
 public:
     MyString() : buf(0) {}
     MyString(const char* str);
@@ -13,6 +11,9 @@ public:
 
     void concat(const char* str);
     void print(std::ostream& os);
+    
+private:
+    Mem *buf;
 };
 
 MyString::MyString(const char* str)
