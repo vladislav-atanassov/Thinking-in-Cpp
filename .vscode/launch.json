@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Vladislav Atanassov/Documents/Programming books/Thinking in C++/Book_exercises/Chapter_11/ex_1",
-      "program": "c:/Users/Vladislav Atanassov/Documents/Programming books/Thinking in C++/Book_exercises/Chapter_11/ex_1/build/Debug/outDebug",
+      "cwd": "c:/Users/Vladislav Atanassov/Documents/Computer science books/Thinking in C++/Book_exercises/2_Chapter_7/ex_3",
+      "program": "c:/Users/Vladislav Atanassov/Documents/Computer science books/Thinking in C++/Book_exercises/2_Chapter_7/ex_3/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
